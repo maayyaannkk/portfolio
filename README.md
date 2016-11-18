@@ -5,5 +5,5 @@ Designed and built a layout in Android Studio for an app that showcases my app p
 Each button represents an app that I have built in the Nanodegree program.
 
 
-<img src="https://github.com/maayyaannkk/portfolio/blob/master/Screenshot_2016-11-19-01-40-37.png" 
- height="520" width="290">
+<img src="https://github.com/maayyaannkk/portfolio/blob/master/Screenshot.png" 
+ height="520" width="290" align="left"/>
